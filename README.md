@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a developer and student in the UK. Currently, I'm a Year 13 student at Herschel Grammar School studying Computer Science, Physics and Maths.
+I'm a developer and student in the UK. Currently, I'm a Year 13 student at Herschel Grammar studying Computer Science, Physics and Maths.
 
 I have experience in Python and Kotlin as well as SQL, Android App Development and Machine Learning.
 
