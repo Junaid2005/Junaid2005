@@ -6,5 +6,5 @@ I have experience in Python and Kotlin as well as SQL, Android App Development a
 
 Here are some projects that I've worked on:
 
+- WalkWoman
 - Road Crossers 
-- Desktop Music Player
