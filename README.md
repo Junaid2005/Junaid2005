@@ -8,3 +8,4 @@ Here are some projects that I've worked on:
 
 - [WalkWoman](https://github.com/JJay2005/Walk-Woman) 
 - [Road Crossers](https://github.com/JJay2005/Road-Crossers) 
+- [Open AI Discord Bot](https://github.com/JJay2005/Open-AI-Discord-Bot)
