@@ -1,11 +1,22 @@
-### Hello 👋
+# Hello 👋, I'm Junaid
 
-I'm a developer and student in the UK. I'm a first year Tech Analyst at Morgan Stanley and am currently studying at QMUL for a Digital and Technology Solutions (Software Engineering) degree
+### SWE @ Morgan Stanley | Comp Sci @ QMUL
 
-I have experience in Python and Kotlin as well as SQL, Android App Development and Machine Learning.
+Passionate about **finance** and **technology**, with a strong interest in building user-friendly web apps.
 
-Some projects that I've worked on:
+---
 
-- [WalkWoman](https://github.com/JJay2005/Walk-Woman) 
-- [Road Crossers](https://github.com/JJay2005/Road-Crossers) 
-- [Open AI Discord Bot](https://github.com/JJay2005/Open-AI-Discord-Bot)
+### 🌱 **Skills & Technologies**:
+- **Languages**: Python, TypeScript, Kotlin, SQL
+- **Frameworks & Libraries**: Angular, React, Node.js
+- **Tools & Platforms**: Git, Linux
+- **Databases**: MySQL, T-SQL
+
+---
+
+### 🚀 **Favorite Projects**:
+
+Here are some projects I've worked on that I'm most proud of:
+
+- [LETF Tracker](https://github.com/Junaid2005/letf-tracker) – Python CLI/GUI tool for tracking Leveraged ETFs (LETFs) against their underlying securities
+- [Forecastly](https://github.com/jxcg/Forecastly) – Web app that uses machine learning and weather data to predict stock prices
