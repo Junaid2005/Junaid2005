@@ -1,4 +1,4 @@
-# Hello 👋, I'm Junaid
+# Junaid 👋
 
 ### SWE @ Morgan Stanley | Comp Sci @ QMUL
 
@@ -8,7 +8,7 @@ Passionate about **finance** and **technology**, with a strong interest in build
 
 ### 🌱 **Skills & Technologies**:
 - **Languages**: Python, TypeScript, Kotlin, SQL
-- **Frameworks & Libraries**: Angular, React, Node.js
+- **Frameworks & Libraries**: Angular, Streamlit, Node.js, Pandas
 - **Tools & Platforms**: Git, Linux
 - **Databases**: MySQL, T-SQL
 
